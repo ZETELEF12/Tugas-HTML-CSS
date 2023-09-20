@@ -1,0 +1,35 @@
+#Header{
+    background-color: red;
+    width: auto;
+    padding: 20px;
+    margin: 5px;
+    font-weight:bold ;
+    text-align: center;
+    border-style: solid;
+}
+#menu{
+    background-color: yellow;
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    border-style: solid;
+}
+#Content{
+    background-color: green;
+    padding: 268px;
+    margin: 5px;
+    text-align: center;
+    border-style: solid;
+}
+#Footer{
+    background-color: darkcyan;
+    width: auto;
+    padding: 20px;
+    font-weight:bold ;
+    text-align: center;
+    border-style: solid;
+}
+body{
+    background-color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+}
